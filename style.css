@@ -169,3 +169,16 @@ h3 {
     font-size: 18px;
     font-weight: 200;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.footer-text {
+    margin: 0;
+}
