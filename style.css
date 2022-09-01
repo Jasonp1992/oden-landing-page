@@ -73,7 +73,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-button {
+.hero-button {
     font-size: 20px;
     padding: 9px 20px 9px 20px;
     color: #e5e7eb;
@@ -137,4 +137,35 @@ h2 {
     font-weight: bold;
     font-size: 28px;
     margin-left: 400px;
+}
+
+.cta-contaoner {
+    background-color: #3882f6;
+    width: 1100px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px auto;
+    color: #f9faf8;
+
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.cta-subtext {
+    margin: 0;
+}
+
+.cta-button {
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    border-radius: 10px;
+    background-color: #3882f6;
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: 200;
 }
