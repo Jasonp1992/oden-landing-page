@@ -114,3 +114,27 @@ h2 {
     color: #1f2937;
     margin-bottom: 30px;
 }
+
+.quote-container{
+    background-color: #e5e7eb;
+    padding: 0px 200px 0px 200px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quoter-text {
+    color: #1f2937;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 400px;
+}
